@@ -1,5 +1,5 @@
 {
-	"name": "stremio-addon-Watch",
+	"name": "stremio-addon-watch-next",
 	"version": "0.0.1",
 	"type": "module",
 	"description": "Shows similar movies and series right below what you’re currently watching using TMDb recommendations.",

@@ -20,7 +20,7 @@ try {
 }
 
 const manifest = {
-  id: "community.Watch",
+  id: "community.watch.next",
   version: "0.0.1",
   catalogs: [],
   resources: ["stream"],
@@ -29,6 +29,7 @@ const manifest = {
   description:
     "Shows similar movies and series right below what you’re currently watching using TMDb recommendations.",
   idPrefixes: ["tt"],
+  logo: "https://myth-115.github.io/Dummy1/logo.png",
 };
 const builder = new addonBuilder(manifest);
 
